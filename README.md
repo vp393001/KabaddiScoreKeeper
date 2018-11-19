@@ -1,6 +1,8 @@
 # KabaddiScoreKeeper
 Android Basic Nanodegree Project: Score Keeper App
 
+Score rules referance: http://www.rulesofsport.com/sports/kabaddi.html
+
 PROJECT SPECIFICATION
 Score Keeper
 
