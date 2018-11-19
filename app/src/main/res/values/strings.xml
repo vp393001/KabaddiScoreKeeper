@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kabaddi Score Keeper</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team A</string>
+    <string name="Prevent_Raider">Prevent Raider</string>
+    <string name="Bonus_Line">Bonus Line</string>
+    <string name="All_out">All Out</string>
+    <string name="Outside_Boundary">Outside Boundary</string>
+    <string name="Reset">reset</string>
+
+</resources>
